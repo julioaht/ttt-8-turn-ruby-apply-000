@@ -29,3 +29,7 @@ def position_taken?(board, position)
   end
 
 end
+
+def move(board,0,"O")
+
+end
