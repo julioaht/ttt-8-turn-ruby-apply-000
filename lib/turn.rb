@@ -31,5 +31,4 @@ def position_taken?(board, position)
 end
 
 def move(board,user_input,"X")
-
 end
