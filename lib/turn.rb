@@ -30,4 +30,3 @@ end
 
 def move(board,user_input,"X")
 end
-
