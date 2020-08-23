@@ -30,6 +30,6 @@ def position_taken?(board, position)
 
 end
 
-def move(board,0,"O")
+def move(board,user_input,"X")
 
 end
