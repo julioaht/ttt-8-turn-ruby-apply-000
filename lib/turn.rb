@@ -25,9 +25,7 @@ def position_taken?(board, position)
 
   else
   	true
-
   end
-
 end
 
 def move(board,user_input,"X")
